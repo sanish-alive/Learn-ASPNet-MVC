@@ -1,0 +1,2 @@
+#helps ensure that Git treats all files as text and automatically adjusts line endings
+* text=auto
